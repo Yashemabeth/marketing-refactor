@@ -19,9 +19,6 @@ body {
 .header h1 {
   display: inline-block;
   font-size: 48px;
-}
-
-.header h1 .seo {
   color: #d9dcd6;
 }
 
@@ -35,6 +32,8 @@ body {
 
 .header div ul {
   list-style-type: none;
+  display: inline-block;
+  margin-left: 25px;
 }
 
 .header div ul li {
